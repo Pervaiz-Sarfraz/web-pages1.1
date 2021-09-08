@@ -1,0 +1,19 @@
+@media screen and (max-width:1341px){
+    .nav-list{
+        flex-direction: column;
+    }
+    .navbar{
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .logo{
+        width: 20%;
+        text-align: center;
+        display: block;
+        top: 0px;
+        left: 2000px;
+    }
+}
